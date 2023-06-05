@@ -1,0 +1,112 @@
+{
+    "category" : [
+        {
+            "id" : 1,
+            "title" : "Mobiles",
+            "products" :[ 
+                {
+                    "id": 1,
+                    "name": "Mobile Product 1",
+                    "description": "This is the description for Mobile Product 1.",
+                    "price": 9.99,
+                    "image": "https://example.com/product1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Mobile Product 2",
+                    "description": "This is the description for Mobile Product 2.",
+                    "price": 19.99,
+                    "image": "https://example.com/product2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Mobile Product 3",
+                    "description": "This is the description for Mobile Product 3.",
+                    "price": 14.99,
+                    "image": "https://example.com/product3.jpg"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "title" : "Electronics",
+            "products" :[ 
+                {
+                    "id": 1,
+                    "name": "Electronics Product 1",
+                    "description": "This is the description for Electronics Product 1.",
+                    "price": 9.99,
+                    "image": "https://example.com/product1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Electronics Product 2",
+                    "description": "This is the description for Electronics Product 2.",
+                    "price": 19.99,
+                    "image": "https://example.com/product2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Electronics Product 3",
+                    "description": "This is the description for Electronics Product 3.",
+                    "price": 14.99,
+                    "image": "https://example.com/product3.jpg"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "title" : "Laptops",
+            "products" :[ 
+                {
+                    "id": 1,
+                    "name": "Laptops Product 1",
+                    "description": "This is the description for Laptops Product 1.",
+                    "price": 9.99,
+                    "image": "https://example.com/product1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Laptops Product 2",
+                    "description": "This is the description for Laptops Product 2.",
+                    "price": 19.99,
+                    "image": "https://example.com/product2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Laptops Product 3",
+                    "description": "This is the description for Laptops Product 3.",
+                    "price": 14.99,
+                    "image": "https://example.com/product3.jpg"
+                }
+            ]
+        },
+        {
+            "id" : 4,
+            "title" : "Groceries",
+            "products" :[ 
+                {
+                    "id": 1,
+                    "name": "Groceries Product 1",
+                    "description": "This is the description for Groceries Product 1.",
+                    "price": 9.99,
+                    "image": "https://example.com/product1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Groceries Product 2",
+                    "description": "This is the description for Groceries Product 2.",
+                    "price": 19.99,
+                    "image": "https://example.com/product2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Groceries Product 3",
+                    "description": "This is the description for Groceries Product 3.",
+                    "price": 14.99,
+                    "image": "https://example.com/product3.jpg"
+                }
+            ]
+        }
+    ]
+}
